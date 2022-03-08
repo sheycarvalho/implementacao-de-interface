@@ -1,8 +1,10 @@
 $(document).ready(function(){
 
     $("#barras").click(function(){
-        $("#menu").toggleClass("#menu-ativo")
+        $("#menu").toggleClass("menu-ativo")
 })
+
+//let search = document.getElementById("campo-search");
 })
 
 //    $("#barras").click(function(){
@@ -17,5 +19,3 @@ $(document).ready(function(){
 // function mostrarPopup(){
 //    window.alert("Hello word")
 // }
-
-let search = document.getElementById("campo-search");

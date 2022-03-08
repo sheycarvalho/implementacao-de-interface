@@ -63,6 +63,10 @@ header{
         width: 150px;
         display: flex;
 }
+.jogos a{
+    text-decoration: none;
+    color: white;
+}
 .secao-ofertas{
     background-color: black;
     height: 40px;
@@ -76,6 +80,10 @@ header{
     text-transform:  uppercase;
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
+}
+.secao-ofertas a {
+    text-decoration: none;
+    color: white;
 }
 .container-imagem{
     background-color: grey;
@@ -115,6 +123,10 @@ header{
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
     text-align: center;
+}
+.secao-compradores a {
+    text-decoration: none;
+    color: white;
 }
 .barra-info{
     background-color: #690D0D;
