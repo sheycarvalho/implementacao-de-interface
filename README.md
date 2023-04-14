@@ -1,6 +1,6 @@
 <h1 align="center">Develop the front-end of the website by implementing the interface</h1>
 
-<p align="center">Project made using HTML, CSS and JAVASCRIPT by <b>Sheyenne de Morais Carvalho</b>
+<p align="center">Project made using HTML, CSS and JavaScript by <b>Sheyenne de Morais Carvalho</b>
 
 <h3>Features</h3>
 <ul>
