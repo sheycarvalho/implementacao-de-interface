@@ -1,37 +1,37 @@
-<h1 align="center">Desenvolver o front-end do site implementando a interface</h1>
+<h1 align="center">Develop the front-end of the website by implementing the interface</h1>
 
-<p align="center">Project made using HTML and CSS by <b>Sheyenne de Morais Carvalho</b>
+<p align="center">Project made using HTML, CSS and JAVASCRIPT by <b>Sheyenne de Morais Carvalho</b>
 
-<h3>Características</h3>
+<h3>Features</h3>
 <ul>
-  <li>Estrutura de documentos</li>
-  <li>Formatação</li>
-  <li>Etiquetas para links</li>
-  <li>Listas</li>
-  <li>Tabelas</li>
-  <li>Estilos de fontes</li>
-  <li>Estilos de linhas</li>
-  <li>Eventos</li>
-  <li>Responsividade</li>
-  <li>Criação de layouts</li>
-  <li>Código semântico</li>
-  <li>Versionamento</li>
+  <li>Document Structure</li>
+  <li>Formatting</li>
+  <li>Tags for links</li>
+  <li>Lists</li>
+  <li>Tables</li>
+  <li>Font styles</li>
+  <li>Line styles</li>
+  <li>Events</li>
+  <li>Responsiveness</li>
+  <li>Creating layouts</li>
+  <li>Semantic Code</li>
+  <li>Versioning</li>
 </ul>
 
-<h3>Tecnologias Aplicadas</h3>
+<h3>Applied Technologies</h3>
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
 </ul>
 
-<h3>Planejamento do Projeto</h3>
+<h3>Project Planning</h3>
 <ul>
-  <li>Utilizar técnicas de interação e codificação, considerando particularidades e funcionalidades da linguagem</li>
-  <li>Aplicar linguagem de programação no desenvolvimento de interface</li>
-  <li>Desenvolver o front-end, aplicando o CSS sobre HTML</li>
+  <li>Use interaction and coding techniques, considering particularities and features of the language</li>
+  <li>Apply programming language in interface development</li>
+  <li>Develop the front-end, applying CSS over HTML</li>
 </ul>
 
-<h3>Requerimentos de instalação</h3>
+<h3>Installation requirements</h3>
 <ul>
   <li>VS Code</li>
 </ul>
